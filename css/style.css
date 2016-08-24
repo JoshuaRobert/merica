@@ -1239,15 +1239,15 @@ footer {
   padding: 15px; }
 
 .page-about {
-  width: 100%ß; }
+  width: 100%; }
 
 .page-about .page-content-bg {
-  background-image: url("/images/about-bg.gif");
+  background-image: url(../images/about-bg.gif);
   background-repeat: no-repeat;
   background-size: 100% 100%; }
 
 .page-about .page-content {
-  background-image: url("/images/merica-sign-grn.gif");
+  background-image: url(../images/merica-sign-grn.gif);
   background-repeat: no-repeat;
   height: 665px;
   width: 1024px; }
@@ -1263,18 +1263,17 @@ footer {
   font-size: 15px; }
 
 .page-home .page-content-bg, .page-characters .page-content-bg {
-  background-image: url("/images/merica-bg.jpg");
-  background-image: url("/images/Background.jpg");
+  background-image: url(../images/Background.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%; }
 
 .home-char-img {
-  background-image: url("/images/merica-characters.png");
+  background-image: url(../images/merica-characters.png);
   width: 1330px;
   height: 700px; }
 
 .page-characters .page-content {
-  background-image: url("/images/connie-full.png");
+  background-image: url(../images/connie-full.png);
   background-repeat: no-repeat;
   height: 750px;
   width: 1330px; }
@@ -1310,11 +1309,11 @@ h2 {
   nav .btn-social-icon {
     display: none; }
   .home-char-img {
-    background-image: url("/images/mobile/mobile-merica-characters-450.png");
+    background-image: url(../images/mobile/mobile-merica-characters-450.png);
     width: 450px;
     height: 580px; }
   .page-about .page-content {
-    background-image: url("/images/mobile/mobile-merica-sign-grn-450.jpg");
+    background-image: url(../images/mobile/mobile-merica-sign-grn-450.jpg);
     background-repeat: no-repeat;
     height: 804px;
     width: 450px; }
@@ -1335,7 +1334,7 @@ h2 {
   .footer-socials ul {
     padding: 0px; }
   .page-characters .page-content {
-    background-image: url("/images/mobile/char/connie.jpg");
+    background-image: url(../images/mobile/char/connie.jpg);
     background-repeat: no-repeat;
     height: 583px;
     width: 450px; }
